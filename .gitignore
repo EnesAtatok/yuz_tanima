@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+# Kişilerin yüz fotoğrafları ve eğitilmiş model paylaşılmasın
+veri/yuzler/*
+model/*
+!veri/yuzler/.gitkeep
+!model/.gitkeep
